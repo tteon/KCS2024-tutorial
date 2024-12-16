@@ -1,4 +1,5 @@
 gliner
+git+https://github.com/LIAAD/yake
 datasets
 openai
 langchain 
