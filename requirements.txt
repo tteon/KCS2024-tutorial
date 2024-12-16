@@ -1,0 +1,10 @@
+gliner
+datasets
+openai
+langchain 
+langchain-openai 
+langchain_community
+tiktoken 
+python-dotenv 
+graphdatascience
+ell-ai[all]
